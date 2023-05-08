@@ -1,0 +1,20 @@
+What is Sentiment Analysis
+Sentiment analysis is known as opinion mining and it is a technique used in natural language processing to determine the emotional undertone of a document. This is common method used byorganization to identify group ideas regarding a certain good and services and concepts.
+
+Tools for Sentiment Analysis:
+extracting information from unstructued and unorganized language found in online sources like emials blogpost support tickets webchats forums and comments.
+
+Algorithm used in:
+Rule based
+automatic 
+hybrid technology
+all these used to replace manual data processing
+
+while automatic system used machine learning to learn from their data.
+Rule based system executes sentiment analysis using predetermined data.
+
+Types of analysis:
+Fine grained sentiment analysis
+Emotion detection sentiment analysis
+Intent based sentiment analysis
+Aspect based sentiment analysis.
